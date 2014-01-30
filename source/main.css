@@ -11,9 +11,12 @@
 }
 
 .content {
+  position: relative;
   width: 600px;
   display: inline-block;
   border-right: solid 1px gray;
+  padding-right: 20px;
+  margin-top: -120px;
 }
 
 nav {
@@ -23,6 +26,7 @@ nav {
 }
 
 .footer {
+  clear: both;
   display: block;
   border-top: solid 1px gray;
   padding: 10px 0px;

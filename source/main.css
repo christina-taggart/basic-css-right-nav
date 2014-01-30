@@ -5,6 +5,29 @@
 
     See: http://bluerobot.com/web/css/center1.html
   */
-  margin: 0 auto;  
+  margin: 0 auto;
   width: 720px;
+  padding: 20px;
+}
+
+.content {
+  width: 600px;
+  display: inline-block;
+  border-right: solid 1px gray;
+}
+
+nav {
+  float: right;
+  width: 120px;
+  display: inline-block;
+}
+
+.footer {
+  display: block;
+  border-top: solid 1px gray;
+  padding: 10px 0px;
+}
+
+li {
+  list-style: none;
 }

@@ -8,3 +8,24 @@
   margin: 0 auto;  
   width: 720px;
 }
+
+body {
+	display: inline;
+}
+.content {
+	width: 600px;
+}
+nav {
+	float: right;
+	height: 840px;
+	padding-left: 25px;
+	border-left: solid thin black;
+}
+ul {
+	list-style: none;
+}
+.footer {
+	border-top: solid thin black;
+	text-align: center;
+	width: 650px;
+}

@@ -8,3 +8,31 @@
   margin: 0 auto;  
   width: 720px;
 }
+
+nav {
+	width: 120px;
+	float: right;
+}
+
+.content {
+	width: 579px;
+	float: left;
+	padding-right: 20px;
+	border-right: solid 1px gray;
+}
+
+.footer {
+	clear: both;
+	padding: 20px 0;
+	border-top: solid 1px gray;
+}
+
+ul {
+	list-style: none;
+	padding: 0 0 0 20px;
+	margin: 0px;
+}
+
+h2 {
+	margin: 0px;
+}

@@ -8,3 +8,18 @@
   margin: 0 auto;  
   width: 720px;
 }
+
+nav{
+	float:right;
+	height:840px;
+	border-left: 1px solid black;
+}
+
+.footer{
+	padding: 10px;
+	border-top: 1px solid black;
+}
+
+.content{
+	padding-right: 170px;
+}
